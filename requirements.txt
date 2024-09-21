@@ -1,0 +1,4 @@
+### 2. `requirements.txt`
+```plaintext
+tabulate
+pywin32
