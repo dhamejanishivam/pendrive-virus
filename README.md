@@ -22,5 +22,5 @@ This project demonstrates a script that can copy specific files from a computer 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pendrive-virus.git
+   git clone https://github.com/dhamejanishivam/pendrive-virus.git
    cd pendrive-virus
