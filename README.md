@@ -17,7 +17,7 @@ This project demonstrates a script that can copy specific files from a computer 
 ## Requirements
 - Windows OS
 - Admin privileges
-- Python interpretor should be present in the pendrive
+- Python interpreter should be present in the pendrive
 
 ## Setup
 
